@@ -12,7 +12,7 @@
 <img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
-<a href="YOUR_LINKEDIN_LINK">
+<a href="www.linkedin.com/in/harshita-u-5927522a7">
 <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
