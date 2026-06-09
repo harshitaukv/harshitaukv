@@ -1,10 +1,12 @@
 <div align="center">
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0F2027,50:203A43,100:2C5364&text=Harshita%20U&fontSize=55&fontColor=ffffff&animation=fadeIn"/>
+
 # HARSHITA U
 
-### Computer Science Engineering Student | Java Developer | AI & ML Enthusiast
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=30&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=Computer+Science+Engineering+Student;Java+Developer;AI+%26+ML+Enthusiast;Full+Stack+Developer;Cybersecurity+Enthusiast;AI+Agent+Developer;Problem+Solver;Open+Source+Learner)](https://git.io/typing-svg)
 
-<hr>
+<br>
 
 <a href="YOUR_PORTFOLIO_LINK">
 <img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
@@ -26,32 +28,46 @@
 
 ---
 
-# About Me
+# 👩‍💻 About Me
 
 ```yaml
-Name      : Harshita U
-Degree    : B.Tech Computer Science and Engineering
-College   : Sri Manakula Vinayagar Engineering College
-CGPA      : 9.02 / 10
-Location  : Puducherry, India
+Name: Harshita U
+
+Degree:
+  B.Tech Computer Science and Engineering
+
+College:
+  Sri Manakula Vinayagar Engineering College
+
+CGPA:
+  9.02 / 10
+
+Location:
+  Puducherry, India
 
 Current Focus:
   - Java Development
+  - Spring Boot
   - Full Stack Development
   - Artificial Intelligence
   - Machine Learning
-  - Data Structures & Algorithms
+  - AI Agents
 
-Passionate About:
+Interests:
   - Software Engineering
-  - Building Real World Applications
-  - AI-Powered Solutions
+  - Generative AI
+  - Cyber Security
   - Problem Solving
+  - Open Source
+
+Goal:
+  Build impactful AI-powered products that solve
+  real-world problems.
 ```
 
 ---
 
-# Tech Stack
+# 🚀 Tech Stack
 
 ## Languages
 
@@ -67,22 +83,22 @@ Passionate About:
 <img src="https://skillicons.dev/icons?i=html"/>
 <img src="https://skillicons.dev/icons?i=css"/>
 <img src="https://skillicons.dev/icons?i=javascript"/>
+<img src="https://skillicons.dev/icons?i=bootstrap"/>
+</p>
+
+## Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=flask"/>
+<img src="https://skillicons.dev/icons?i=nodejs"/>
 </p>
 
 ## Database
 
 <p>
 <img src="https://skillicons.dev/icons?i=mysql"/>
+<img src="https://skillicons.dev/icons?i=postgresql"/>
 </p>
-
-## Core Concepts
-
-- Object Oriented Programming
-- Database Management Systems
-- Data Structures & Algorithms
-- Operating Systems
-- Artificial Intelligence
-- Machine Learning
 
 ## Tools
 
@@ -90,31 +106,32 @@ Passionate About:
 <img src="https://skillicons.dev/icons?i=git"/>
 <img src="https://skillicons.dev/icons?i=github"/>
 <img src="https://skillicons.dev/icons?i=vscode"/>
+<img src="https://skillicons.dev/icons?i=netlify"/>
 </p>
 
 ---
 
-# Professional Experience
+# 💼 Professional Experience
 
 ## Java Full Stack Developer Intern | AICTE & EduSkills
 
 - Completed 10-week virtual internship
-- Worked on Java Full Stack technologies
-- Developed enterprise application concepts
-- Gained hands-on software development experience
+- Developed Java Full Stack development skills
+- Worked on enterprise application concepts
+- Gained practical software engineering experience
 
 ---
 
 ## AI & ML Intern | Google for Developers India Edu Program
 
-- Worked on Machine Learning concepts
-- Built AI-based applications
-- Explored NLP and recommendation systems
-- Learned model development and evaluation
+- Worked on Machine Learning applications
+- Built AI-based solutions
+- Learned NLP and recommendation systems
+- Explored modern AI workflows
 
 ---
 
-# Featured Projects
+# 🌟 Featured Projects
 
 ## 🛡 Sentinel-Core
 
@@ -126,7 +143,7 @@ Passionate About:
 - Phishing Detection
 - Risk Analysis Engine
 - Zero Trust Validation
-- Secure AI Processing
+- Secure LLM Processing
 
 #### Tech Stack
 
@@ -136,154 +153,159 @@ Passionate About:
 
 ## 🎓 AI Integrated Educational Platform
 
-### Personalized Learning and Recommendation System
-
 #### Features
 
 - Personalized Learning
-- AI Course Recommendations
+- AI Course Recommendation
 - NLP Chatbot
 - Adaptive Learning Support
 
 #### Tech Stack
 
-`Python` `HTML` `CSS` `JavaScript` `MySQL` `Machine Learning`
+`Python` `HTML` `CSS` `JavaScript` `MySQL`
 
 ---
 
 ## 🌱 ECOBREATHE
 
-### AI Solution for Sustainable Living and Air Pollution Awareness
+#### Features
+
+- Air Quality Awareness
+- Sustainable Living Suggestions
+- Environmental Analytics
+- AI-Powered Recommendations
+
+---
+
+## 📚 Student Book Exchange Platform
 
 #### Features
 
-- Environmental Monitoring
-- Sustainability Suggestions
-- Smart Awareness Platform
-- AI-Based Recommendations
+- Book Recommendation System
+- Student Donation Platform
+- Exchange Marketplace
+- Personalized Dashboard
 
 ---
 
-## 📚 Intelligent Student Book Exchange Platform
+# 🏆 Achievements
 
-### Affordable Student Book Exchange & Donation System
+🥇 ICT Academy Youth Talk 2024 Regional Pre-Finalist
 
-#### Features
+🥇 TCS CodeVita Season 12 Round 2 Qualifier
 
-- Book Recommendation Engine
-- Academic Stream-Based Suggestions
-- Donation & Exchange Support
-- Personalized Student Dashboard
+🥇 Adobe India Hackathon 2025 Round 2 Qualifier
 
----
+🥇 Google India Girl Hackathon 2025 Ideathon Round Selection
 
-# Achievements
+🥇 ECLearnix EdTech 360 Innovation Challenge Finalist
 
-🏆 ICT Academy Youth Talk 2024 Regional Pre-Finalist
+🥇 GDG TechSprint SMVEC 2025 Top 10 Team
 
-🏆 TCS CodeVita Season 12 Round 2 Qualifier
+🥇 SCIMIT’26 National Science Day Project Contest Prize Winner
 
-🏆 Adobe India Hackathon 2025 Round 2 Qualifier
+🥇 Solved 200+ Problems on LeetCode
 
-🏆 Google India Girl Hackathon 2025 Ideathon Round Selection
-
-🏆 ECLearnix EdTech 360 Innovation Challenge Finalist
-
-🏆 GDG TechSprint SMVEC 2025 Top 10 Team
-
-🏆 SCIMIT’26 National Science Day Mega Project Contest Prize Winner
-
-🏆 Solved 200+ Problems on LeetCode
-
-🏆 Gold Badges in Python, Java & Problem Solving on HackerRank
-
-🏆 Silver Badge in C on HackerRank
+🥇 Gold Badges in Java, Python & Problem Solving on HackerRank
 
 ---
 
-# Certifications
+# 📜 Certifications
 
-📜 Google AI Essentials
-
-📜 Google Cybersecurity
-
-📜 Infosys Springboard – Core Java
-
-📜 NPTEL – Database Management Systems
-
-📜 NPTEL – Python for Data Science
-
-📜 NPTEL – Joy of Computing Using Python
-
-📜 PwC – Modern Data Systems
-
-📜 PwC – GenAI Prompt Engineering & AI Agents
+- Google AI Essentials
+- Google Cybersecurity
+- Infosys Springboard – Core Java
+- NPTEL – Database Management Systems
+- NPTEL – Python for Data Science
+- NPTEL – Joy of Computing Using Python
+- PwC – Modern Data Systems
+- PwC – GenAI Prompt Engineering & AI Agents
 
 ---
 
-# Hackathons & Competitions
+# 🚀 Hackathons & Competitions
 
-🚀 Adobe India Hackathon 2025
-
-🚀 Google India Girl Hackathon 2025
-
-🚀 ECLearnix EdTech 360 Innovation Challenge
-
-🚀 GDG TechSprint SMVEC 2025
-
-🚀 TCS CodeVita Season 12
-
-🚀 ICT Academy Youth Talk 2024
+- Adobe India Hackathon 2025
+- Google India Girl Hackathon 2025
+- TCS CodeVita Season 12
+- ICT Academy Youth Talk 2024
+- GDG TechSprint SMVEC
+- ECLearnix Innovation Challenge
 
 ---
 
-# GitHub Analytics
+# 💻 Competitive Programming
 
-<p align="center">
+<p>
+
+<a href="YOUR_LEETCODE_LINK">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+
+<a href="YOUR_HACKERRANK_LINK">
+<img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+</a>
+
+<a href="YOUR_SKILLRACK_LINK">
+<img src="https://img.shields.io/badge/SkillRack-blue?style=for-the-badge"/>
+</a>
+
+</p>
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=harshitaukv&show_icons=true&theme=tokyonight"/>
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=harshitaukv&theme=tokyonight"/>
-</p>
 
-<p align="center">
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=harshitaukv&theme=tokyonight"/>
+
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshitaukv&layout=compact&theme=tokyonight"/>
-</p>
+
+</div>
 
 ---
 
-# Activity Graph
+# 📈 Activity Graph
 
 [![Harshita's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=harshitaukv&theme=tokyo-night)](https://github.com/harshitaukv)
 
 ---
 
-# Current Goals
+# 🐍 Contribution Snake
 
-🎯 Master Spring Boot Development
-
-🎯 Build Scalable Full Stack Applications
-
-🎯 Explore Artificial Intelligence & AI Agents
-
-🎯 Contribute to Open Source
-
-🎯 Crack Top Product-Based Company Interviews
-
-🎯 Publish Impactful AI Projects
+<p align="center">
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg">
+</p>
 
 ---
 
-# Competitive Coding Profiles
+# 🎯 Current Goals
 
-- LeetCode
-- HackerRank
-- SkillRack
-- CodeChef
+- Master Spring Boot Development
+- Build Scalable Full Stack Applications
+- Explore AI Agents & GenAI
+- Contribute to Open Source
+- Publish Research-Oriented Projects
+- Crack Top Product-Based Company Interviews
 
 ---
 
-# Quote
+# 💭 Quote of the Day
 
-> Technology becomes meaningful when it solves real-world problems.
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+---
+
+# 📫 Reach Me
+
+📧 harshita.ukv@gmail.com
+
+📍 Puducherry, India
+
+🎓 Sri Manakula Vinayagar Engineering College
 
 ---
 
@@ -291,6 +313,8 @@ Passionate About:
 
 <img src="https://komarev.com/ghpvc/?username=harshitaukv&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge"/>
 
-### Thanks for Visiting My Profile ❤️
+<br><br>
+
+### ⭐ Thanks for Visiting My Profile ⭐
 
 </div>
