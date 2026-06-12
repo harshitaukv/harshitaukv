@@ -42,7 +42,7 @@ Interests:
   - Generative AI
   - Cyber Security
   - Problem Solving
-  - Open Source
+  - ERP
 
 Goal:
   Build impactful AI-powered products that solve
