@@ -1,27 +1,30 @@
 <div align="center">
 
-
 # HARSHITA U
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=30&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=Computer+Science+Engineering+Student;AI-+Developer;AI+%26+ML+Enthusiast;Full+Stack+Developer;Cybersecurity+Enthusiast;AI+Agent+Developer;Problem+Solver;Open+Source+Learner)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=32&pause=1500&color=00D9FF&center=true&vCenter=true&width=900&lines=Computer+Science+and+Engineering+Student;Java+Full+Stack+Developer;AI+%26+ML+Enthusiast)](https://git.io/typing-svg)
 
 <br>
 
 <a href="YOUR_PORTFOLIO_LINK">
-<img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/harshita-u-5927522a7/">
-<img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://github.com/harshitaukv">
-<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="mailto:harshita.ukv@gmail.com">
-<img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=harshitaukv&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
 
 </div>
 
@@ -32,22 +35,17 @@
 ```yaml
 Name: Harshita U
 
-Degree:
-  B.Tech Computer Science and Engineering
-
-College:
-  Sri Manakula Vinayagar Engineering College
-
-CGPA:
-  9.02 / 10
+Education:
+  Degree: B.Tech Computer Science and Engineering
+  College: Sri Manakula Vinayagar Engineering College
+  CGPA: 9.02 / 10
 
 Location:
   Puducherry, India
 
 Current Focus:
-  - Java Development
+  - Java Full Stack Development
   - Spring Boot
-  - Full Stack Development
   - Artificial Intelligence
   - Machine Learning
   - AI Agents
@@ -59,74 +57,72 @@ Interests:
   - Problem Solving
   - Open Source
 
-Goal:
+Career Goal:
   Build impactful AI-powered products that solve
-  real-world problems.
+  real-world challenges and create positive change.
 ```
 
 ---
 
 # 🚀 Tech Stack
 
-## Languages
+### Programming Languages
 
-<p>
-<img src="https://skillicons.dev/icons?i=java"/>
-<img src="https://skillicons.dev/icons?i=python"/>
-<img src="https://skillicons.dev/icons?i=c"/>
+<p align="left">
+<img src="https://skillicons.dev/icons?i=java,python,c,javascript"/>
 </p>
 
-## Frontend
+### Frontend Development
 
-<p>
-<img src="https://skillicons.dev/icons?i=html"/>
-<img src="https://skillicons.dev/icons?i=css"/>
-<img src="https://skillicons.dev/icons?i=javascript"/>
-<img src="https://skillicons.dev/icons?i=bootstrap"/>
+<p align="left">
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,javascript"/>
 </p>
 
-## Backend
+### Backend Development
 
-<p>
-<img src="https://skillicons.dev/icons?i=flask"/>
-<img src="https://skillicons.dev/icons?i=nodejs"/>
+<p align="left">
+<img src="https://skillicons.dev/icons?i=spring,nodejs,flask"/>
 </p>
 
-## Database
+### Databases
 
-<p>
-<img src="https://skillicons.dev/icons?i=mysql"/>
-<img src="https://skillicons.dev/icons?i=postgresql"/>
+<p align="left">
+<img src="https://skillicons.dev/icons?i=mysql,postgresql"/>
 </p>
 
-## Tools
+### Tools & Platforms
 
-<p>
-<img src="https://skillicons.dev/icons?i=git"/>
-<img src="https://skillicons.dev/icons?i=github"/>
-<img src="https://skillicons.dev/icons?i=vscode"/>
-<img src="https://skillicons.dev/icons?i=netlify"/>
+<p align="left">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,netlify"/>
 </p>
 
 ---
 
-# 💼 Professional Experience
+# 💼 Experience
 
 ## Java Full Stack Developer Intern | AICTE & EduSkills
 
-- Completed 10-week virtual internship
-- Developed Java Full Stack development skills
-- Worked on enterprise application concepts
-- Gained practical software engineering experience
+- Completed 10-week Virtual Internship
+- Developed enterprise-level Java Full Stack skills
+- Worked with modern web application concepts
+- Strengthened software engineering fundamentals
+
+### Tech Used
+
+`Java` `Spring Boot` `HTML` `CSS` `JavaScript` `MySQL`
 
 ---
 
 ## AI & ML Intern | Google for Developers India Edu Program
 
-- Worked on Machine Learning applications
-- Built AI-based solutions
-- Learned NLP and recommendation systems
-- Explored modern AI workflows
+- Built AI and Machine Learning solutions
+- Worked on NLP-based applications
+- Explored recommendation systems
+- Learned modern AI development workflows
+
+### Tech Used
+
+`Python` `Machine Learning` `NLP` `AI`
 
 ---
 
@@ -136,7 +132,7 @@ Goal:
 
 ### Multi-Layered Cyber-Resilient Framework for Securing Autonomous LLM Assistants
 
-#### Features
+#### Key Features
 
 - Prompt Injection Detection
 - Phishing Detection
@@ -146,16 +142,33 @@ Goal:
 
 #### Tech Stack
 
-`Python` `Flask` `PostgreSQL` `REST APIs` `Ollama` `NLP`
+`Python` `Flask` `PostgreSQL` `REST API` `Ollama` `NLP`
+
+---
+
+## 🌱 ECOBREATHE
+
+### AI Platform for Sustainable Living & Environmental Awareness
+
+#### Key Features
+
+- Air Quality Awareness
+- Sustainable Lifestyle Suggestions
+- Environmental Analytics
+- AI-Powered Recommendations
+
+#### Tech Stack
+
+`Python` `Machine Learning` `Data Analytics`
 
 ---
 
 ## 🎓 AI Integrated Educational Platform
 
-#### Features
+#### Key Features
 
 - Personalized Learning
-- AI Course Recommendation
+- AI Course Recommendations
 - NLP Chatbot
 - Adaptive Learning Support
 
@@ -165,25 +178,18 @@ Goal:
 
 ---
 
-## 🌱 ECOBREATHE
+## 📚 Student Book Exchange & Donation Platform
 
-#### Features
+#### Key Features
 
-- Air Quality Awareness
-- Sustainable Living Suggestions
-- Environmental Analytics
-- AI-Powered Recommendations
-
----
-
-## 📚 Student Book Exchange Platform
-
-#### Features
-
-- Book Recommendation System
-- Student Donation Platform
-- Exchange Marketplace
+- Smart Book Recommendations
+- Student Donation Portal
+- Book Exchange Marketplace
 - Personalized Dashboard
+
+#### Tech Stack
+
+`Python` `Flask` `MySQL` `Machine Learning`
 
 ---
 
@@ -201,7 +207,7 @@ Goal:
 
 🥇 GDG TechSprint SMVEC 2025 Top 10 Team
 
-🥇 SCIMIT’26 National Science Day Project Contest Prize Winner
+🥇 SCIMIT'26 National Science Day Project Contest Prize Winner
 
 🥇 Solved 200+ Problems on LeetCode
 
@@ -212,7 +218,7 @@ Goal:
 # 📜 Certifications
 
 - Google AI Essentials
-- Google Cybersecurity
+- Google Cybersecurity Professional Certificate
 - Infosys Springboard – Core Java
 - NPTEL – Database Management Systems
 - NPTEL – Python for Data Science
@@ -235,7 +241,7 @@ Goal:
 
 # 💻 Competitive Programming
 
-<p>
+<div align="center">
 
 <a href="YOUR_LEETCODE_LINK">
 <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
@@ -246,10 +252,10 @@ Goal:
 </a>
 
 <a href="YOUR_SKILLRACK_LINK">
-<img src="https://img.shields.io/badge/SkillRack-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/SkillRack-00599C?style=for-the-badge"/>
 </a>
 
-</p>
+</div>
 
 ---
 
@@ -257,63 +263,63 @@ Goal:
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=harshitaukv&show_icons=true&theme=tokyonight"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=harshitaukv&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=harshitaukv&theme=tokyonight"/>
+<img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=harshitaukv&theme=tokyonight&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshitaukv&layout=compact&theme=tokyonight"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshitaukv&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
 
-# 📈 Activity Graph
+# 📈 Contribution Activity
+
+<div align="center">
 
 [![Harshita's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=harshitaukv&theme=tokyo-night)](https://github.com/harshitaukv)
+
+</div>
 
 ---
 
 # 🐍 Contribution Snake
 
-<p align="center">
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg">
-</p>
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+
+</div>
 
 ---
 
-# 🎯 Current Goals
+# 🎯 2026 Goals
 
 - Master Spring Boot Development
 - Build Scalable Full Stack Applications
-- Explore AI Agents & GenAI
-- Contribute to Open Source
-- Publish Research-Oriented Projects
+- Explore AI Agents & Generative AI
+- Contribute to Open Source Projects
+- Publish Research-Oriented Solutions
 - Crack Top Product-Based Company Interviews
 
 ---
 
-# 💭 Quote of the Day
+# 📫 Connect With Me
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+📧 **Email:** harshita.ukv@gmail.com
 
----
+💼 **LinkedIn:** www.linkedin.com/in/harshita-u-5927522a7
 
-# 📫 Reach Me
+💻 **GitHub:** github.com/harshitaukv
 
-📧 harshita.ukv@gmail.com
+🎓 **College:** Sri Manakula Vinayagar Engineering College
 
-📍 Puducherry, India
-
-🎓 Sri Manakula Vinayagar Engineering College
+📍 **Location:** Puducherry, India
 
 ---
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=harshitaukv&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge"/>
-
-<br><br>
-
-### ⭐ Thanks for Visiting My Profile ⭐
+## ⭐ Thanks for Visiting My Profile ⭐
 
 </div>
