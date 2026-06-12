@@ -3,7 +3,7 @@
 
 # HARSHITA U
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=30&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=Computer+Science+Engineering+Student;Java+Developer;AI+%26+ML+Enthusiast;Full+Stack+Developer;Cybersecurity+Enthusiast;AI+Agent+Developer;Problem+Solver;Open+Source+Learner)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=30&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=Computer+Science+Engineering+Student;AI-+Developer;AI+%26+ML+Enthusiast;Full+Stack+Developer;Cybersecurity+Enthusiast;AI+Agent+Developer;Problem+Solver;Open+Source+Learner)](https://git.io/typing-svg)
 
 <br>
 
