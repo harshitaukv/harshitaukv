@@ -1,10 +1,8 @@
 <div align="center">
 
-<h1>𝑯𝒂𝒓𝒔𝒉𝒊𝒕𝒂 𝑼</h1>
+# ✦ 𝑯𝒂𝒓𝒔𝒉𝒊𝒕𝒂 𝑼 ✦
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=30&pause=1500&color=00D9FF&center=true&vCenter=true&width=900&lines=Computer+Science+and+Engineering+Student;Java+Full+Stack+Developer;AI+%26+ML+Enthusiast"/>
-
-<br><br>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&pause=1500&color=00D9FF&center=true&vCenter=true&width=850&height=40&lines=Computer+Science+and+Engineering+Student;Java+Full+Stack+Developer;AI+%26+ML+Enthusiast"/>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](YOUR_PORTFOLIO_LINK)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harshita-u-5927522a7/)
@@ -79,7 +77,7 @@ Goal:
 <img src="https://skillicons.dev/icons?i=mysql,postgresql"/>
 </p>
 
-### Tools
+### Tools & Platforms
 
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,netlify"/>
@@ -91,19 +89,18 @@ Goal:
 
 ## Java Full Stack Developer Intern | AICTE & EduSkills
 
-- Completed 10-week virtual internship
-- Developed Java Full Stack development skills
-- Worked on enterprise application concepts
+- Completed 10-week Virtual Internship
+- Developed enterprise application skills
+- Worked with Java Full Stack technologies
 - Gained practical software engineering experience
 
 ---
 
 ## AI & ML Intern | Google for Developers India Edu Program
 
-- Worked on Machine Learning applications
-- Built AI-based solutions
-- Learned NLP and recommendation systems
-- Explored modern AI workflows
+- Built AI and Machine Learning applications
+- Explored NLP and Recommendation Systems
+- Worked on modern AI workflows
 
 ---
 
@@ -111,7 +108,7 @@ Goal:
 
 ## 🛡 Sentinel-Core
 
-Multi-Layered Cyber-Resilient Framework for Securing Autonomous LLM Assistants
+### Multi-Layered Cyber-Resilient Framework for Securing Autonomous LLM Assistants
 
 **Features**
 
@@ -129,10 +126,10 @@ Multi-Layered Cyber-Resilient Framework for Securing Autonomous LLM Assistants
 
 ## 🌱 ECOBREATHE
 
-AI Platform for Sustainable Living & Environmental Awareness
+### AI Platform for Sustainable Living & Environmental Awareness
 
 - Air Quality Awareness
-- Sustainable Living Suggestions
+- Sustainable Lifestyle Suggestions
 - Environmental Analytics
 - AI-Powered Recommendations
 
@@ -141,16 +138,16 @@ AI Platform for Sustainable Living & Environmental Awareness
 ## 🎓 AI Integrated Educational Platform
 
 - Personalized Learning
-- AI Course Recommendation
+- AI Course Recommendations
 - NLP Chatbot
 - Adaptive Learning Support
 
 ---
 
-## 📚 Student Book Exchange Platform
+## 📚 Student Book Exchange & Donation Platform
 
-- Book Recommendation System
-- Student Donation Platform
+- Smart Book Recommendations
+- Student Donation Portal
 - Exchange Marketplace
 - Personalized Dashboard
 
@@ -164,13 +161,13 @@ AI Platform for Sustainable Living & Environmental Awareness
 
 🥇 Adobe India Hackathon 2025 Round 2 Qualifier
 
-🥇 Google India Girl Hackathon 2025 Ideathon Round Selection
+🥇 Google India Girl Hackathon 2025 Ideathon Selection
 
 🥇 ECLearnix EdTech 360 Innovation Challenge Finalist
 
-🥇 GDG TechSprint SMVEC 2025 Top 10 Team
+🥇 GDG TechSprint SMVEC Top 10 Team
 
-🥇 SCIMIT’26 National Science Day Project Contest Prize Winner
+🥇 SCIMIT’26 National Science Day Project Contest Winner
 
 🥇 Solved 200+ Problems on LeetCode
 
@@ -207,9 +204,7 @@ AI Platform for Sustainable Living & Environmental Awareness
 <div align="center">
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](YOUR_LEETCODE_LINK)
-
 [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](YOUR_HACKERRANK_LINK)
-
 [![SkillRack](https://img.shields.io/badge/SkillRack-00599C?style=for-the-badge)](YOUR_SKILLRACK_LINK)
 
 </div>
@@ -254,7 +249,7 @@ AI Platform for Sustainable Living & Environmental Awareness
 
 - Master Spring Boot Development
 - Build Scalable Full Stack Applications
-- Explore AI Agents & GenAI
+- Explore AI Agents & Generative AI
 - Contribute to Open Source
 - Publish Research-Oriented Projects
 - Crack Top Product-Based Company Interviews
@@ -275,7 +270,7 @@ AI Platform for Sustainable Living & Environmental Awareness
 
 <img src="https://komarev.com/ghpvc/?username=harshitaukv&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge"/>
 
-<br><br>
+<br>
 
 ### ⭐ Thanks for Visiting My Profile ⭐
 
