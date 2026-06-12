@@ -45,8 +45,7 @@ Interests:
   - ERP
 
 Goal:
-  Build impactful AI-powered products that solve
-  real-world challenges.
+  Build impactful AI-powered products that solve real-world challenges.
 ```
 
 ---
@@ -56,7 +55,7 @@ Goal:
 ### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=java,python,c,javascript"/>
+<img src="https://skillicons.dev/icons?i=java,python,c,cpp"/>
 </p>
 
 ### Frontend
@@ -80,7 +79,7 @@ Goal:
 ### Tools & Platforms
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,netlify"/>
+<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,netlify"/>
 </p>
 
 ---
@@ -103,53 +102,90 @@ Goal:
 - Worked on modern AI workflows
 
 ---
-
 # 🌟 Featured Projects
 
-## 🛡 Sentinel-Core
+## 🛡 ShieldCore
 
 ### Multi-Layered Cyber-Resilient Framework for Securing Autonomous LLM Assistants
 
 **Features**
 
 - Prompt Injection Detection
-- Phishing Detection
-- Risk Analysis Engine
-- Zero Trust Validation
-- Secure LLM Processing
+- Phishing & Malicious Content Detection
+- AI Risk Analysis Engine
+- Zero Trust Validation Framework
+- Secure LLM Request Processing
+- Real-Time Threat Monitoring
 
 **Tech Stack**
 
-`Python` `Flask` `PostgreSQL` `REST APIs` `Ollama` `NLP`
+`Python` `Flask` `PostgreSQL` `REST APIs` `Ollama` `NLP` `Cybersecurity`
+
+🔗 https://github.com/harshitaukv/shieldcore-backend
 
 ---
 
-## 🌱 ECOBREATHE
+## 🛍 Agentic AI-Powered Conversational Sales Agent for Retail
 
-### AI Platform for Sustainable Living & Environmental Awareness
+### Intelligent Retail Assistant for Personalized Shopping & Customer Engagement
 
-- Air Quality Awareness
-- Sustainable Lifestyle Suggestions
-- Environmental Analytics
-- AI-Powered Recommendations
+**Features**
+
+- Conversational AI Sales Assistant
+- Personalized Product Recommendations
+- Customer Intent Understanding
+- Context-Aware Product Search
+- Natural Language Interaction
+- Smart Purchase Guidance
+- Real-Time Customer Support
+
+**Tech Stack**
+
+`Python` `Agentic AI` `LLMs` `NLP` `Prompt Engineering` `Vector Database` `Retail Analytics`
+
+🔗 https://github.com/harshitaukv/Agentic-AI-Powered-Conversational-Sales-Agent-for-Retail-Retail-ABFRL-
+
+---
+
+## 📐 AI-Assisted CAD Validation System
+
+### Intelligent Design Verification for Early Detection of Engineering Errors
+
+**Features**
+
+- Automated CAD Design Validation
+- Compliance Rule Checking
+- Early Error Detection
+- Design Quality Assessment
+- AI-Powered Engineering Insights
+- Manufacturing Readiness Verification
+- Design Optimization Recommendations
+
+**Tech Stack**
+
+`Python` `Machine Learning` `Computer Vision` `CAD Analysis` `Data Validation` `AI`
+
+🔗 https://github.com/harshitaukv/AI-Assisted-CAD-Validation-System-for-Early-Detection-of-Design-Errors-and-Compliance-Issues
 
 ---
 
 ## 🎓 AI Integrated Educational Platform
 
-- Personalized Learning
-- AI Course Recommendations
-- NLP Chatbot
+### Personalized Learning Ecosystem Powered by Artificial Intelligence
+
+**Features**
+
+- Personalized Learning Paths
+- AI Course Recommendation Engine
+- NLP-Based Educational Chatbot
 - Adaptive Learning Support
+- Student Performance Analysis
 
----
+**Tech Stack**
 
-## 📚 Student Book Exchange & Donation Platform
+`Python` `Machine Learning` `NLP` `HTML` `CSS` `JavaScript` `MySQL`
 
-- Smart Book Recommendations
-- Student Donation Portal
-- Exchange Marketplace
-- Personalized Dashboard
+🔗 https://github.com/harshitaukv/AI-Integrated-Educational-Web-Platform
 
 ---
 
